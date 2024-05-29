@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1716992286 source:c:\users\popai\desktop\adhomework\lobster\homari.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"HOMARI.h"
+
+1716992266 c:\users\popai\desktop\adhomework\lobster\homari.h
+	<stdio.h>
+
+1716992322 source:c:\users\popai\desktop\adhomework\lobster\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"HOMARI.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716985770 source:c:\users\popai\desktop\adhomework\data generator\main.c
+	<stdio.h>
+	<stdlib.h>
+
